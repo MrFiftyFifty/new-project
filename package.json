@@ -4,7 +4,7 @@
   "description": "",
   "main": "fill.js",
   "scripts": {
-    "test": "npx jest --colors"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",

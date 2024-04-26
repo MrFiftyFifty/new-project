@@ -1,3 +1,6 @@
+import { beforeEach, test, expect } from 'jest';
+import fill from './fill.js';
+
 let array;
 
 beforeEach(() => {
